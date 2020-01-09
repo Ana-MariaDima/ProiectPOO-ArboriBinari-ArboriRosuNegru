@@ -11,7 +11,7 @@ class node
     node *dr;
 
 public:
-    //constructori
+    
     node();
     node(int);
 
